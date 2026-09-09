@@ -1,0 +1,22 @@
+# Compiled class files & build directories
+target/
+build/
+out/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# VS Code files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
