@@ -18,6 +18,10 @@ public class Salad {
     public void addVegetable(Vegetable vegetable) {
         vegetables.add(vegetable);
     }
+
+    public List<Vegetable> getVegetables() {
+        return vegetables;
+    }
     // Метод для обчислення загальної калорійності салату
     public double calculateTotalCalories() {
         double totalCalories = 0;
